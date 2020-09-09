@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"<Unnamed>","l":"Elfish"},{"p":"<Unnamed>","l":"Postfix"},{"p":"<Unnamed>","l":"Prefix"},{"p":"<Unnamed>","l":"Reverse"},{"p":"<Unnamed>","l":"Sorting"},{"p":"<Unnamed>","l":"Spriral"},{"p":"<Unnamed>","l":"TestForRecursive"}]
